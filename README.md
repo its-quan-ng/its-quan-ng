@@ -1,7 +1,6 @@
-## Hi there 👋
-# 💫About Me :
 🌱Learning every day
 
+# 💫About Me :
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Bergan) 
 
