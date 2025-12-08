@@ -1,4 +1,4 @@
-🌱Learning every day
+🌱
 
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=its-quan-ng&theme=synthwave&hide_border=false)<br/>
