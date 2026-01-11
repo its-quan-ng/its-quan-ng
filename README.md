@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Quan+Nguyen+-+Bergan;Quality+Assurance+Engineer+%F0%9F%94%8D;Bug+Hunter+%7C+Code+Tester+%7C+Quality+Guardian+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Quan+Nguyen+-+Bergan;Quality+Assurance+Engineer+%F0%9F%94%8D" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
