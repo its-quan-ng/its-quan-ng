@@ -37,13 +37,13 @@ const quan = {
 
 <div align="center">
 
-### 🎵 Vibing 🌸
+###  Vibing 🔫
 
 **Red Velvet 레드벨벳** 🍰  
 [![Spotify](https://img.shields.io/badge/Red_Velvet-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM)
 [![YouTube](https://img.shields.io/badge/Red_Velvet-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RedVelvet)
 
-**Kim Tae-ri 김태리** 🎬  
+**Kim Tae-ri 김태리** 🍐  
 [![Mr. Sunshine](https://img.shields.io/badge/Mr._Sunshine-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com/title/80991107)
 [![Twenty Five Twenty One](https://img.shields.io/badge/Twenty_Five_Twenty_One-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com/title/81517168)
 [![Wiki](https://img.shields.io/badge/Fandom-FA005A?style=for-the-badge&logo=fandom&logoColor=white)](https://kdrama.fandom.com/wiki/Kim_Tae_Ri)
@@ -61,7 +61,5 @@ const quan = {
 ![Profile Views](https://komarev.com/ghpvc/?username=its-quan-ng&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fits-quan-ng&label=Visitors&labelColor=%23697689&countColor=%23263759)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=🌿%20Keep%20Growing%20🌱&fontSize=40&fontColor=fff&animation=twinkling" />
 
 </div>
