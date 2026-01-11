@@ -2,15 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Quan+Nguyen+-+Bergan;Quality+Assurance+Engineer+%F0%9F%94%8D;Bug+Hunter+%7C+Code+Tester+%7C+Quality+Guardian+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY4YzN2ZjJ5YnBnNjR5bWE2cWJ6ZnJ5ZnJ5ZnJ5ZnJ5ZnJ5ZnJ5ZnJ5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="QA Testing GIF"/>
-</div>
-
 ## 🎯 About Me
 
 ```typescript
 const quan = {
-    role: "Quality Assurance Engineer �",
+    role: "Quality Assurance Engineer 🐛",
     mission: "Making sure bugs don't see the light of day ☀️",
     motto: "If it can break, I'll find how 💪",
     currentlyTesting: "Everything and anything 🔍",
@@ -34,76 +30,19 @@ const quan = {
 
 ---
 
-## 🎮 My QA Superpowers
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐛 Bug Hunting
-```diff
-- Bugs trying to hide
-+ Me finding them anyway
-! Zero tolerance policy
-# Quality is non-negotiable
-```
-
-</td>
-<td width="50%">
-
-### ⚡ Testing Arsenal
-- 🔍 Manual Testing
-- 🤖 Automation Testing  
-- 🎯 Regression Testing
-- 🚀 Performance Testing
-- 📱 Cross-browser Testing
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-quan-ng&theme=synthwave&hide_border=false" alt="GitHub Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=its-quan-ng&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-quan-ng&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=its-quan-ng&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-### 📈 Contribution Graph
+### � Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=its-quan-ng&theme=react-dark&hide_border=false)
 
 ---
 
 <div align="center">
 
-## 💭 Testing Wisdom
+### 🎵 Vibing with Red Velvet 레드벨벳 🍰
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Spotify](https://img.shields.io/badge/Red_Velvet-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM)
+[![YouTube](https://img.shields.io/badge/Red_Velvet-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RedVelvet)
 
-### 🎯 QA Philosophy
-*"Testing shows the presence, not the absence of bugs."* - Edsger W. Dijkstra
+*"Hmmmmm...ACK...ACAUGH....pfft"* 🌸
 
 </div>
 
@@ -113,8 +52,10 @@ const quan = {
 
 ### ✨ Thanks for visiting! ✨
 
-![](https://visitcount.itsvg.in/api?id=its-quan-ng&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=its-quan-ng&label=Profile%20views&color=0e75b6&style=flat)
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fits-quan-ng&label=Visitors&labelColor=%23697689&countColor=%23263759)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=🌿%20Keep%20Growing%20🌱&fontSize=40&fontColor=fff&animation=twinkling" />
 
 </div>
