@@ -9,8 +9,7 @@ const quan = {
     role: "Quality Assurance Engineer 🐛",
     mission: "Making sure bugs don't see the light of day ☀️",
     motto: "somehow in someway 🔫",
-    currentlyTesting: "Everything and anything 🔍",
-    funFact: "I break things for a living and get paid for it! 😎"
+    currentlyTesting: "Everything and anything 🔍"
 };
 ```
 
