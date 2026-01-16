@@ -55,7 +55,7 @@ const quan = {
 
 <div align="center">
 
-### ✨ Thanks for visiting! ✨
+### ✨ Hi~ Thanks for visiting! ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=its-quan-ng&label=Profile%20views&color=0e75b6&style=flat)
 
