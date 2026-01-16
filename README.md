@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Quan+Nguyen+-+Bergan;Quality+Assurance+Engineer+%F0%9F%94%8D" alt="Typing SVG" />
 </div>
 
-## 🎯 About Me
+## Me?
 
 ```typescript
 const quan = {
@@ -29,14 +29,14 @@ const quan = {
 
 ---
 
-### � Contribution Graph
+### Quan's Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=its-quan-ng&theme=react-dark&hide_border=false)
 
 ---
 
 <div align="center">
 
-###  Vibing 🔫
+###  Little Love 🔫
 
 **Red Velvet 레드벨벳** 🍰  
 [![Spotify](https://img.shields.io/badge/Red_Velvet-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM)
