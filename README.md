@@ -42,11 +42,6 @@ const quan = {
 [![Spotify](https://img.shields.io/badge/Red_Velvet-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM)
 [![YouTube](https://img.shields.io/badge/Red_Velvet-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RedVelvet)
 
-**Kim Tae-ri 김태리** 🍐  
-[![Mr. Sunshine](https://img.shields.io/badge/Mr._Sunshine-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com/title/80991107)
-[![Twenty Five Twenty One](https://img.shields.io/badge/Twenty_Five_Twenty_One-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com/title/81517168)
-[![Wiki](https://img.shields.io/badge/Fandom-FA005A?style=for-the-badge&logo=fandom&logoColor=white)](https://kdrama.fandom.com/wiki/Kim_Tae_Ri)
-
 *"Hmmmmm...ACK...ACAUGH....pfft"* 🌸
 
 </div>
