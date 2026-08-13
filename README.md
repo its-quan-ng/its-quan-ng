@@ -42,7 +42,7 @@ const quan = {
 [![Spotify](https://img.shields.io/badge/Red_Velvet-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM)
 [![YouTube](https://img.shields.io/badge/Red_Velvet-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RedVelvet)
 
-*"Hmmmmm...ACK...ACAUGH....pfft"* 🌸
+*"What a chill kill!"* 🌸🕷️
 
 </div>
 
